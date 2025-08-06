@@ -1,4 +1,4 @@
-Insurance Management System ->
+Digital Healthcare Platform ->
 
 Tech Stack: HTML, CSS, Python, Django, MySQL
 
