@@ -1,1 +1,5 @@
-# Digital-Healthcare-Platform
+Insurance Management System ->
+
+Tech Stack: HTML, CSS, Python, Django, MySQL
+
+Developed a responsive front-end that interacts with the Django framework and uses MySQL schema to store patient and doctor data
